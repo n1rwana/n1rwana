@@ -12,7 +12,7 @@ I'm a fullstack web developer from Russia.
 💻PC Configuration: Intel Core i7-7700, NVIDIA GeForce GTX 1660 <br/>
 🪟OS: Windows 11, Linux Ubuntu 20.04, macOS 11 Big Sur.
 
-📱Phone: Apple iPhone 11
+📱Phone: Apple iPhone 11<br/>
 🪟iOS Version: 15.5
 
 💻Server Configuration: _soon..._ <br/>
