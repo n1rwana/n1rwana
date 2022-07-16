@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there!👋
 
-<!--
-**n1rwana/n1rwana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack web developer from Russia.
 
-Here are some ideas to get you started:
+🔞Age: 14 <br/>
+🌍Languages: Русский, English <br/>
+😄Pronouns: He/Him <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻Programming Languages: HTML, CSS, JS, PHP, Python _and a little of Java and C++_ 🙂 <br/>
+🪟IDE: Visual Studio Code
+
+💻PC Configuration: Intel Core i7-7700, NVIDIA GeForce GTX 1660 <br/>
+🪟OS: Windows 11, Linux Ubuntu 20.04, macOS 11 Big Sur.
+
+💻Server Configuration: _soon..._ <br/>
+🪟Server OS: Windows Server 2019 Standart _Desktop Experience_
