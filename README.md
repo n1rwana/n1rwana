@@ -7,7 +7,7 @@ I'm a fullstack web developer from Russia.
 😄Pronouns: He/Him <br/>
 
 🧑‍💻Programming Languages: HTML, CSS, JS, PHP, Python _and a little of Java and C++_ 🙂 <br/>
-🪟IDE: Visual Studio Code, Visual Studio 2022
+🪟IDE: Visual Studio Code, Visual Studio 2022, IntelliJ IDEA
 
 💻PC Configuration: Intel Core i7-7700, NVIDIA GeForce GTX 1660 <br/>
 🪟OS: Windows 11, Linux Ubuntu 20.04, macOS 11 Big Sur.
