@@ -17,5 +17,5 @@ I'm a fullstack web developer from Russia.
 📱Phone: Apple iPhone 11<br/>
 🪟iOS Version: 15.6
 
-💻Server Configuration: 3 GB RAM, Intel Xeon E5-2682 v4 @ 2.50 GHz (x2) <br/>
-🪟Server OS: Windows Server 2019 Standart _Desktop Experience_
+💻Server Configuration: 12 GB RAM, 5.0 GHz CPU (x6) <br/>
+🪟Server OS: Windows Server 2022 Standart _Desktop Experience_
