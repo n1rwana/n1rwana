@@ -6,7 +6,7 @@ I'm a fullstack web developer from Russia.
 🌍Languages: Русский, English <br/>
 😄Pronouns: He/Him <br/>
 
-🧑‍💻Programming Languages: HTML, CSS, JS _(React JS)_, PHP, Python _and a little of Java and C++_ 🙂 <br/>
+🧑‍💻Programming Languages: HTML, CSS, JS _(React JS, Node.js)_, PHP, Python _and a little of Java and C++_ 🙂 <br/>
 🪟IDE: Visual Studio Code, Visual Studio 2022, IntelliJ IDEA
 
 📨Email: me@n1rwana.xyz
