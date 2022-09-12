@@ -15,7 +15,7 @@ I'm a fullstack web developer from Russia.
 🪟OS: Windows 11, Linux Ubuntu 20.04
 
 📱Phone: Apple iPhone 11<br/>
-🪟iOS Version: 15.6
+🪟iOS Version: 16.0
 
 💻Server Configuration: 12 GB RAM, 5.0 GHz CPU (x6) <br/>
 🪟Server OS: Windows Server 2022 Standart _Desktop Experience_
