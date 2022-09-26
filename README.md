@@ -18,4 +18,4 @@ I'm a fullstack web developer from Russia.
 🪟iOS Version: 16.0
 
 💻Server Configuration: 16 GB RAM, 5.0 GHz CPU (x8) <br/>
-🪟Server OS: Windows Server 2022 Standart _Desktop Experience_
+🪟Server OS: Ubuntu 22.04
