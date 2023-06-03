@@ -6,7 +6,6 @@ I'm a fullstack web developer from Russia.
 🌍 **Languages** Русский, English <br/>
 😄 **Pronouns** He/Him <br/>
 
-🌐 **Website** https://n1rwana.xyz <br/>
 📨 **Email** n1rwana@inbox.ru
 
 🧑‍💻 **Programming Languages** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python _and a little of Java and C++_ 🙂 <br/>
@@ -16,4 +15,4 @@ I'm a fullstack web developer from Russia.
 🪟 Windows 11
 
 📱 **Apple** iPhone 11<br/>
-🪟 **iOS** 16.3.1
+🪟 **iOS** 16.5
