@@ -15,4 +15,4 @@ I'm a fullstack web developer from Russia.
 🪟 Windows 11
 
 📱 **Apple** iPhone 11<br/>
-🪟 **iOS** 16.5
+🪟 **iOS** 16.6
