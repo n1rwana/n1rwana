@@ -6,7 +6,6 @@ I'm a fullstack web developer from Russia.
 🌍 **Languages** Русский, English <br/>
 😄 **Pronouns** He/Him <br/>
 
-🌐 **Website** https://killua.cloud-apps.ru <br/>
 📨 **Email** n1rwana@inbox.ru
 
 🧑‍💻 **Programming Languages** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python _and a little of Java and C++_ 🙂 <br/>
