@@ -11,8 +11,8 @@ I'm a fullstack web developer from Russia.
 🧑‍💻 **Programming Languages** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python _and a little of Java and C++_ 🙂 <br/>
 🪟 **IDE** Visual Studio Code
 
-💻 **PC** Intel Core i7-7700, NVIDIA GeForce GTX 1660 <br/>
+💻 **PC** Intel Core i7-7700, MSI GeForce GTX 1660 SUPER VENTUS XS OC 6GB <br/>
 🪟 Windows 11
 
 📱 **Apple** iPhone 11<br/>
-🪟 **iOS** 16.6
+🪟 **iOS** 17.2.1
