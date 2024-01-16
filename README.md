@@ -8,11 +8,17 @@ I'm a fullstack web developer from Russia.
 
 📨 **Email** n1rwana@inbox.ru
 
-🧑‍💻 **Programming Languages** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python _and a little of Java and C++_ 🙂 <br/>
+🧑‍💻 **Stack** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python _and a little of Java and C++_ 🙂 <br/>
 🪟 **IDE** Visual Studio Code
 
 💻 **PC** Intel Core i7-7700, MSI GeForce GTX 1660 SUPER VENTUS XS OC 6GB <br/>
-🪟 Windows 11
+🪟 Windows 11, Ubuntu 20.04
 
 📱 **Apple** iPhone 11<br/>
 🪟 **iOS** 17.2.1
+
+💙 My VK Mini Apps:
+📝 https://vk.com/notepad (Markdown notes)
+🎴 https://vk.com/educards (cards-based testing)
+👨‍💼 https://vk.com/depman (civil servant simulation game)
+💮 https://vk.com/app51826154 (anime catalog)
