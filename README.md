@@ -17,8 +17,8 @@ I'm a fullstack web developer from Russia.
 📱 **Apple** iPhone 11<br/>
 🪟 **iOS** 17.2.1
 
-💙 My VK Mini Apps:
-📝 https://vk.com/notepad (Markdown notes)
-🎴 https://vk.com/educards (cards-based testing)
-👨‍💼 https://vk.com/depman (civil servant simulation game)
-💮 https://vk.com/app51826154 (anime catalog)
+💙 My VK Mini Apps:<br/>
+📝 https://vk.com/notepad (Markdown notes)<br/>
+🎴 https://vk.com/educards (cards-based testing)<br/>
+👨‍💼 https://vk.com/depman (civil servant simulation game)<br/>
+💮 https://vk.com/app51826154 (anime catalog)<br/>
