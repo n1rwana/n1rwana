@@ -21,4 +21,4 @@ I'm a fullstack web developer from Russia.
 📝 https://vk.com/notepad (Markdown notes)<br/>
 🎴 https://vk.com/educards (cards-based testing)<br/>
 👨‍💼 https://vk.com/depman (civil servant simulation game)<br/>
-💮 https://vk.com/app51826154 (anime catalog)<br/>
+💮 https://vk.com/anime_app (anime catalog)<br/>
