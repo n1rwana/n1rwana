@@ -22,3 +22,4 @@ I'm a fullstack web developer from Russia.
 🎴 https://vk.com/educards (cards-based testing)<br/>
 👨‍💼 https://vk.com/depman (civil servant simulation game)<br/>
 💮 https://vk.com/anime_app (anime catalog)<br/>
+🉑️ https://vk.com/kanaquest (Hiragana and Katakana training app)<br/>
