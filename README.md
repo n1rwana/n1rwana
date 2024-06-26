@@ -14,8 +14,11 @@ I'm a fullstack web developer from Russia.
 💻 **PC** Intel Core i7-7700, MSI GeForce GTX 1660 SUPER VENTUS XS OC 6GB <br/>
 🪟 Windows 11, Ubuntu 20.04
 
+📱 **Apple** iPhone 15 Pro<br/>
+🪟 **iOS** 17.5.1
+
 📱 **Apple** iPhone 11<br/>
-🪟 **iOS** 17.2.1
+🪟 **iOS** 17.4.1
 
 💙 My VK Mini Apps:<br/>
 📝 https://vk.com/notepad (Markdown notes)<br/>
