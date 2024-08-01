@@ -8,7 +8,7 @@ I'm a fullstack web developer from Russia.
 
 📨 **Email** n1rwana@inbox.ru
 
-🧑‍💻 **Stack** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python _and a little of Java and C++_ 🙂 <br/>
+🧑‍💻 **Stack** HTML, CSS, JS _(React JS, Node.js, Vue.js)_, PHP, SQL, Python, C# (.NET Framework) _and a little of Java and C++_ 🙂 <br/>
 🪟 **IDE** Visual Studio Code
 
 💻 **PC** Intel Core i7-7700, MSI GeForce GTX 1660 SUPER VENTUS XS OC 6GB <br/>
