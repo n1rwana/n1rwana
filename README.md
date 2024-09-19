@@ -15,7 +15,7 @@ I'm a fullstack web developer from Russia.
 🪟 Windows 11, Ubuntu 20.04
 
 📱 **Apple** iPhone 15 Pro<br/>
-🪟 **iOS** 17.5.1
+🪟 **iOS** 18
 
 📱 **Apple** iPhone 11<br/>
 🪟 **iOS** 17.4.1
