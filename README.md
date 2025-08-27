@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer from Russia.
 
-🔞 **Age** 16 <br/>
+🔞 **Age** 17 <br/>
 🌍 **Languages** Русский, English <br/>
 😄 **Pronouns** He/Him <br/>
 
@@ -15,7 +15,7 @@ I'm a fullstack web developer from Russia.
 🪟 Windows 11, Ubuntu 20.04
 
 📱 **Apple** iPhone 15 Pro<br/>
-🪟 **iOS** 18.5
+🪟 **iOS** 26
 
 📱 **Apple** iPhone 11<br/>
 🪟 **iOS** 17.4.1
